@@ -26,9 +26,6 @@ import org.junit.Before;
 
 /**
  * @author <a href="mailto:tim.fox@jboss.com">Tim Fox</a>
- * @version <tt>$Revision: $</tt>23 Jul 2007
- *          <p/>
- *          $Id: $
  */
 public class JMSTestCase extends HornetQServerTestCase
 {
